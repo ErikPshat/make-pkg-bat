@@ -1,7 +1,7 @@
-# make-pkg-bat v1.8
-make pkg bat made by [Alex_1985](http://www.pspx.ru/forum/member.php?u=458658) and modified by in1975
+# MAKE_DEBUG-RETAIL-RIF_PKG v1.8
+make pkg bat made by [Alex_1985](http://www.pspx.ru/forum/member.php?u=458658) and modified by in1975, ErikPshat.
 
-Many thanks to: ErikPshat, hexcsl, YChvanov !
+Many thanks to: hexcsl, YChvanov !
 
 ###  Credits:               BIG thanks for PS3XPLOIT TEAM
 #### For HAN tools by W, escortd3w, bguerville, habib and Specialy Joonie
@@ -9,11 +9,21 @@ Many thanks to: ErikPshat, hexcsl, YChvanov !
 #### For PSPx Team for this utility: in1975, hexcsl, Alex_1985, ErikPshat
 --------------------------------------------------------------------
 
-### Usage: 
-* Put game folders inside directiry
-* Put *.rap files in the RAPS folder
-* Put act.dat and idps.hex in directory
-* Run program EXE and select the desired action - Make DEBUG PKG(s) or Make RETAIL PKG(s) or Make RIF PKG.
+### Usage: English
+1. Delete 4 testing folders from release 
+2. Put the game folders next to the program 
+3. Put *.rap files in the RAPS folder
+4. Put act.dat and idps.hex in the same directory
+5. Run program EXE and select the desired action - Make DEBUG PKG(s) or Make RETAIL PKG(s) or Make RIF PKG.
+
+### Использование: Русский
+1. Удалите из папки релиза все 4 папки, которые там лежат для демонстрации работы программы.
+2. Положите рядом с программой папки игры, которую необходимо упаковать в PKG.
+3. Положите файлы *.rap в папку "RAPS", если их нужно подписать и упаковать в PKG для активации PSN-игры.
+4. Положите файлы act.dat и idps.hex рядом с программой - они так же нужны для подписи активации PSN-игры.
+5. Запустите программу и выберите необходимое действие - Создать DEBUG PKG или RETAIL PKG или RIF PKG.
+   - _(имейте в виду, что на создание RETAIL пакета требуется почти в 2 раза больше времени)_
+--------------------------------------------------------------------
 	
 ### History:
 #### 1.8
